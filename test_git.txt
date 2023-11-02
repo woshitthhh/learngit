@@ -1,0 +1,6 @@
+test_git:
+上传至github流程：
+1.git add xxx
+2.git commit -m“xxx”
+3.git remote add 别名 地址
+4.git push 别名 分支
